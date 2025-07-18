@@ -1,0 +1,24 @@
+.checkbox-tree {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+.columns {
+  display: flex;
+}
+
+.column {
+  width: 50%;
+  padding: 0 1rem;
+}
+
+.column h3 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+.checkbox-tree span {
+  cursor: pointer;
+  margin-left: 5px;
+}
